@@ -14,9 +14,14 @@
         "prepare": "husky install"
     },
     "dependencies": {
+        "@typescript-eslint/parser": "^5.56.0",
+        "daisyui": "^2.51.5",
+        "eslint-plugin-import": "^2.27.5",
         "next": "12.3.1",
         "react": "18.2.0",
-        "react-dom": "18.2.0"
+        "react-dom": "18.2.0",
+        "react-hot-toast": "^2.4.0",
+        "socket.io-client": "^4.6.1"
     },
     "devDependencies": {
         "@types/node": "18.7.19",
